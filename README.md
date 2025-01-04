@@ -1,3 +1,5 @@
+# THIS IS SO OLD AND NO LONGER MAINTAINED!!!
+
 # PacketLogger
 A packet logger for Pocketmine-MP
 
